@@ -23,4 +23,9 @@ p {
     width: 50%;
     margin 24 px;
     padding: 16px;
+    .culturas{
+        background-image: linear-gradient(#40c9ff,#e81cff);
+        width: 400px;
+        color:white;
+    }
 }
