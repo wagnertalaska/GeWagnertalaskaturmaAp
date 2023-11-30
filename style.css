@@ -9,6 +9,13 @@ body {text-align: center;
     font-size: 32px;
     color: white;
 }
+#banner{
+    width:50% ;
+    margin: 24px;
+    padding:16px ;
+    border: radius 24px; 
+}
+
 p {
     color: rgb(4, 0, 255);
 }
